@@ -3,7 +3,7 @@
 
 ### Setup
 
-1 Git clone this repo. git clone https://github.com/000tenere000/cigarette-butts-detector-gradio_app
-2 After that, cd into the repo and run: pip install gradio for gradeio istallation.
-3 Install the required Python libraries.Run pip install -r requirements.txt
-4 And then Run python app.py
+* Git clone this repo. git clone https://github.com/000tenere000/cigarette-butts-detector-gradio_app
+* After that, cd into the repo and run: pip install gradio for gradeio istallation.
+* Install the required Python libraries.Run pip install -r requirements.txt
+* And then Run python app.py
